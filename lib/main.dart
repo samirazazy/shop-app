@@ -15,7 +15,6 @@ import './screens/edit_product_screen.dart';
 import './screens/auth_screen.dart';
 
 void main() => runApp(MyApp());
-
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
